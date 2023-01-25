@@ -1,5 +1,4 @@
-
-rt default function signUpUser(firstName, lastName) {
+export default function signUpUser(firstName, lastName) {
   const obj = {
     firstName,
     lastName,
